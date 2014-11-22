@@ -27,7 +27,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Protokollführerinnen gewählt, das Protokoll der Sitzung wird im
    ZaPF-Reader für die folgende ZaPF abgedruckt.
 
-4. Nach der Wahl der Redeleitung und der Protokollführung ist die
+4. Nach der Wahl der Sitzungsleitung und der Protokollführung ist die
    Beschlussfähigkeit festzustellen.
 
 5. Anschließend wird die Tagesordnung bekanntgegeben und abgestimmt.
@@ -70,14 +70,15 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
 3. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
-   Zur Abstimmung im Abschlussplenum müssen Anträge zur Änderung der
-   Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Abschlussplenum
-   bekanntgegeben werden.
+   Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
+   der Geschäftsordnung spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder
+   Abschlussplenum bekanntgegeben werden.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
+   Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
 
 4. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann einen Vertreter oder eine Vertreterin benennen und muss dies
-   der Redeleitung mitteilen.
+   der Sitzungsleitung mitteilen.
    Die Vertreterin oder der Vertreter ist dann die neue antragstellende Person.
 
 ## 3.2 Geschäftsordnungsanträge
@@ -94,7 +95,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    Mehrheit erforderlich.
    Gibt es keine Gegenrede gilt der Antrag als angenommen.
 
-4. Geschäftsordnungsanträge sind insbesondere Anträge:
+4. Geschäftsordnungsanträge sind folgende Anträge:
    - zur Änderung der Tagesordnung,
    - zur erneuten Feststellung der Beschlussfähigkeit
      (ohne Abstimmung, ohne Gegenrede),
@@ -102,7 +103,7 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
    - zur Vertagung eines Verhandlungsgegenstandes in einen anderen
      Tagesordnungspunkt,
    - zur Begrenzung der Redezeit,
-   - zum Schluss der Rednerliste (nach Annahme des Antrages können sich
+   - zum Schluss der Redeliste (nach Annahme des Antrages können sich
      noch Redner auf die Liste setzen lassen, anschließend wird die Liste
      geschlossen, weitere Wortmeldungen sind dann nicht mehr möglich)
    - Wiedereröffnung der Redeliste *
@@ -116,9 +117,11 @@ Mitglieder und Helferinnen und Helfer der ausführenden Fachschaft.
      Recht auf ein Meinungsbild im Plenum *
    - Nichtbefassung *
    - geheime Abstimung (ohne Gegenrede, ohne Abstimmung)
-   - Neuwahl der Redeleitung unter Benennung eines Gegenkandidaten
-   - Neuwahl des Protokollanten unter Benennung eines Gegenkandidaten
+   - Neuwahl der Sitzungsleitung unter Benennung eines oder mehrerer Gegenkandidaten
+   - Neuwahl des Protokollanten unter Benennung eines oder mehrerer Gegenkandidaten
    - Einholung eines Meinungsbildes im Plenum
+   - Verfahrensvorschlag
+   - namentliche Abstimmung
 
    Mit einem * gekennzeichnete Anträge erfordern eine Zweidrittelmehrheit.
 
@@ -129,9 +132,15 @@ sowie die Wahlmodi für Personenwahlen. Die Beschlussfähigkeit für Abstimmunge
 und Personenwahlen ist gegeben, wenn *fünfzehn Physikfachschaften*
 im Plenum anwesend sind.
 
-Die Redeleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
+Die Beschlussfähigkeit ist ausschließlich für Abstimmungen und Personenwahlen
+entsprechend dieser Geschäftsordnung notwendig.
+Nur das Plenum betreffende Abstimmungen können ohne Beschlussfähigkeit
+durchgeführt werden, dies betrifft insbesondere die Wahl der Sitzungsleitung und der
+Protokollanten, sowie das Sitzungsende.
+
+Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmungen und
 Wahlen aus. Für geheime Abstimmungen und Wahlen wird ein Wahlausschuss von der
-Redeleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
+Sitzungsleitung bestimmt. Hierbei darf kein Mitglied des Wahlausschusses selbst zur
 Wahl stehen.
 
 ## 4.1 Abstimmungen und Meinungsbilder

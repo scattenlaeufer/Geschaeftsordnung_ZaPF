@@ -1,14 +1,11 @@
 # Geschäftsordnung für Plenen der ZaPF
 
-Dieses Repository enthält die Quelldateien für die Geschäftsordnung für Plenen der ZaPF.
+Dieses Repository enthält die Quelldateien für meine Arbeitsfassung der Geschäftsordnung für Plenen der ZaPF.
 
-Die main branch enthält eine Variante der Satzung in Markdown, während die branch
-master-tex eine LaTeX-Fassung inklusive PDF enthält.
+Die branch refactor enthält die Markdown, refactor-tex die LaTeX-Version
 
 
-### Homepage
-
-* <https://vmp.ethz.ch/zapfwiki/index.php/Gesch%C3%A4ftsordnung_f%C3%BCr_Plenen_der_ZaPF>
+* <https://vmp.ethz.ch/zapfwiki/index.php/Satzung_der_ZaPF>
 
 ### Kontakt
 
