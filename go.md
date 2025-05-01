@@ -437,7 +437,7 @@ Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Sch
 - Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich
   abgegebene Stimmen zu verhindern
 - Nach Annahme (durch Ausbleiben von Gegenrede): Fachschaften, die ihre
-  entsprechende Intention vorher bekanntgegeben haben, geben iher
+  entsprechende Intention vorher bekanntgegeben haben, geben ihre
   Stimme bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen Fachschaften per
   Handzeichen ab.
 
