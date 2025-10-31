@@ -437,6 +437,7 @@ Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
 ## Teilnamentliche und Geheime Abstimmungen {-}
 
 Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Schema ab:
+
 - Bekanntmachung des Abstimmungsverhaltens der Fachschaften nach kurzer Bedenkzeit
   (namentlich oder nicht namentlich)
 - Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich
