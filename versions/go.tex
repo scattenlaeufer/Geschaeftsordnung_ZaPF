@@ -51,7 +51,7 @@
 \let\LanguageShortHands\languageshorthands
 \def\languageshorthands#1{}
 \ifLuaTeX
-  \usepackage{selnolig}  % disable illegal ligatures
+  \usepackage[german]{selnolig} % disable illegal ligatures
 \fi
 \usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
@@ -128,6 +128,8 @@ alle Mitglieder und helfende Personen der ausrichtenden Fachschaft.
 \item
   Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der
   Regel jedoch zehn Minuten nicht überschreiten.
+\item
+  Zur Organisation von Wortbeiträgen werden Redelisten geführt.
 \end{enumerate}
 
 \section{Anträge}\label{antruxe4ge}
@@ -186,6 +188,11 @@ Antragsdurchführung}\label{antragsfristen-und-antragsdurchfuxfchrung}
   Geschäftsordnung und die Satzung, ändern wollen, sollen ihre Änderung
   des bestehenden Textes \emph{geeignet nachvollziehbar} machen. Diese
   Pflicht entfällt für Initiativanträge.
+\item
+  Für alle Anträge und deren Änderungsanträge werden jeweils eigene
+  Redelisten geführt. Abweichend davon teilen sich konkurrierende
+  Anträge eine Redeliste. Antragstellende Personen dürfen auf Rückfragen
+  außerhalb der Redeliste antworten.
 \end{enumerate}
 
 \subsection{Geschäftsordnungsanträge}\label{geschuxe4ftsordnungsantruxe4ge}
@@ -308,8 +315,8 @@ Meinungsbilder}\label{abstimmungen-und-meinungsbilder}
   Es werden Abstimmungen und \emph{Meinungsbilder} unterschieden.
   Meinungsbilder sind informelle Abstimmungen um die Meinung der im
   Plenum anwesenden einzuholen, während Abstimmungen über die Annahme
-  oder Ablehnung von Beschlüssen entscheiden. Eine \emph{Vorabstimmung}
-  ist nicht zulässig.
+  oder Ablehnung von Anträgen auf Beschlüsse entscheiden. Eine
+  \emph{Vorabstimmung} ist nicht zulässig.
 \item
   Beschlüsse sind nach außen zu tragende \emph{Resolutionen}, die
   zwingend an eine oder mehrere natürliche oder juristische Personen
@@ -326,19 +333,19 @@ Meinungsbilder}\label{abstimmungen-und-meinungsbilder}
   jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur
   Beratung zu gewähren. Eine geheime Abstimmung ist möglich.
 \item
-  Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen
-  größer ist als die Summe aus Enthaltungen und Nein-Stimmen. Sollte die
-  Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen überwiegen,
-  wird die Abstimmung einmalig wiederholt. Falls in der erneuten
-  Abstimmung wiederum die Zahl der Enthaltungen überwiegt, gilt der
-  Antrag als abgelehnt. Die Abstimmung ist geeignet, z.B. durch
-  deutliches Handheben, kenntlich zu machen, eine geheime Abstimmung in
-  Papierform kann beantragt werden. Eine schriftliche Stimmabgabe ist
-  bei vorzeitiger Abreise möglich, es ist jedoch bei geheimer Abstimmung
-  auf Wahrung des Wahlgeheimnisses zu achten. Die schriftliche
-  Stimmabgabe gilt nur für inhaltlich unveränderte Anträge und verfällt
-  sonst. Stimmrechtsübertragung ist nicht möglich. Anträge zur
-  Abstimmung sind positiv zu formulieren.
+  Ein Antrag gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer
+  ist als die Summe aus Enthaltungen und Nein-Stimmen. Sollte die Zahl
+  der Enthaltungen die Summe der Ja- und Nein-Stimmen überwiegen, wird
+  die Abstimmung einmalig wiederholt. Falls in der erneuten Abstimmung
+  wiederum die Zahl der Enthaltungen überwiegt, gilt der Antrag als
+  abgelehnt. Die Abstimmung ist geeignet, z.B. durch deutliches
+  Handheben, kenntlich zu machen, eine geheime Abstimmung in Papierform
+  kann beantragt werden. Eine schriftliche Stimmabgabe ist bei
+  vorzeitiger Abreise möglich, es ist jedoch bei geheimer Abstimmung auf
+  Wahrung des Wahlgeheimnisses zu achten. Die schriftliche Stimmabgabe
+  gilt nur für inhaltlich unveränderte Anträge und verfällt sonst.
+  Stimmrechtsübertragung ist nicht möglich. Anträge zur Abstimmung sind
+  positiv zu formulieren.
 \item
   Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das
   Wesen. Sie können von jeder teilnehmenden Person gestellt werden.
@@ -496,6 +503,10 @@ Meinungsbilder}\label{abstimmungen-und-meinungsbilder}
   Darüber hinaus nominiert die austragende Fachschaft zwei
   Vertrauenspersonen aus ihrer Fachschaft, diese müssen nicht vom Plenum
   bestätigt werden.
+\item
+  Weiterhin sind die beiden gewählten Personen aus dem Awarenessgremium
+  auch Vertrauenspersonen, diese müssen nicht vom Plenum bestätigt
+  werden.
 \end{enumerate}
 
 \section*{Anhang: Versionshistorie}\label{anhang-versionshistorie}
@@ -546,9 +557,11 @@ auf der:
 \item
   Winter-ZaPF 2023 in Düsseldorf,
 \item
-  der Winter-ZaPF 2024 in Mainz, und
+  Winter-ZaPF 2024 in Mainz,
 \item
-  der Sommer-ZaPF 2025 in Erlangen.
+  Sommer-ZaPF 2025 in Erlangen, und
+\item
+  der Winter-ZaPF 2025 in Frankfurt am Main.
 \end{itemize}
 
 \section*{Anhang: Kommentare zur Geschäftsordnung und
@@ -692,15 +705,24 @@ Abstimmungen}\label{teilnamentliche-und-geheime-abstimmungen}
 Abstimmungen}
 
 Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach
-folgendem Schema ab: - Bekanntmachung des Abstimmungsverhaltens der
-Fachschaften nach kurzer Bedenkzeit (namentlich oder nicht namentlich) -
-Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf
-nicht-namentlich abgegebene Stimmen zu verhindern - Bei Gegenrede wird
-der GO-Antrag ohne Abstimmung abgelehnt. Der Antrag / die Reso, über die
-abgestimmt werden soll, bleibt bestehen. - Nach Annahme (durch
-Ausbleiben von Gegenrede): Bei namentlicher Abstimmung wird die Stimme
-bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen
-Fachschaften per Handzeichen ab.
+folgendem Schema ab:
+
+\begin{itemize}
+\tightlist
+\item
+  Bekanntmachung des Abstimmungsverhaltens der Fachschaften nach kurzer
+  Bedenkzeit (namentlich oder nicht namentlich)
+\item
+  Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf
+  nicht-namentlich abgegebene Stimmen zu verhindern
+\item
+  Bei Gegenrede wird der GO-Antrag ohne Abstimmung abgelehnt. Der Antrag
+  / die Reso, über die abgestimmt werden soll, bleibt bestehen.
+\item
+  Nach Annahme (durch Ausbleiben von Gegenrede): Bei namentlicher
+  Abstimmung wird die Stimme bei der Redeleitung abgegeben.
+  Währenddessen stimmen die übrigen Fachschaften per Handzeichen ab.
+\end{itemize}
 
 Die freiwillige Dokumentation von Abstimmungsverhalten soll dazu dienen,
 einen Antrag besonders zu unterstreichen, indem man ihm mit dem eigenen

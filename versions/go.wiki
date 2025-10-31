@@ -17,6 +17,7 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden der Za
 # Im Abschlussplenum sollte es immer einen Tagesordnungspunkt “Berichte der Arbeitskreise” geben. Möchte ein Arbeitskreis (AK) einen Antrag abstimmen bzw. ein Meinungsbild einholen wollen, so ist diese entsprechend des Abschnittes “Anträge” einzureichen. Auf einer vorherigen ZaPF durch einen GO-Antrag auf “Schließung der Redeliste und Verweisung in eine Arbeitsgruppe mit Recht auf ein Meinungsbild im Plenum” vertagte Anträge sowie solche, die wegen mangelnder Beschlussfähigkeit, nicht mehr behandelt werden konnten, sollen priorisiert behandelt werden.
 # Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung auszulegen oder wie eine Lücke zu schließen ist, so kann die Auslegungsfrage mit Wirkung für die gesamte Sitzung durch die Sitzungsleitung entschieden werden.
 # Die Sitzungsleitung kann die Sitzung unterbrechen, dies sollte in der Regel jedoch zehn Minuten nicht überschreiten.
+# Zur Organisation von Wortbeiträgen werden Redelisten geführt.
 
 = Anträge =
 
@@ -29,6 +30,7 @@ Als teilnehmende Personen der ZaPF gelten alle angemeldeten Teilnehmenden der Za
 # Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet bekanntgemacht werden, z.B. über die Mailingliste. Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung des Verhaltenskodex der ZaPF spätestens um 15:00 Uhr am Tag vor dem Zwischen- oder Abschlussplenum bekanntgegeben werden. Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich. Die Änderung des Verhaltenskodex tritt sofort in Kraft.
 # Die antragsstellende Person muss im Plenum anwesend sein oder kann eine Vertretung benennen und muss dies der Sitzungsleitung mitteilen. Die vertretende ist dann die neue antragstellende Person.
 # Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes ''geeignet nachvollziehbar'' machen. Diese Pflicht entfällt für Initiativanträge.
+# Für alle Anträge und deren Änderungsanträge werden jeweils eigene Redelisten geführt. Abweichend davon teilen sich konkurrierende Anträge eine Redeliste. Antragstellende Personen dürfen auf Rückfragen außerhalb der Redeliste antworten.
 
 == Geschäftsordnungsanträge ==
 
@@ -72,11 +74,11 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 
 == Abstimmungen und Meinungsbilder ==
 
-# Es werden Abstimmungen und ''Meinungsbilder'' unterschieden. Meinungsbilder sind informelle Abstimmungen um die Meinung der im Plenum anwesenden einzuholen, während Abstimmungen über die Annahme oder Ablehnung von Beschlüssen entscheiden. Eine ''Vorabstimmung'' ist nicht zulässig.
+# Es werden Abstimmungen und ''Meinungsbilder'' unterschieden. Meinungsbilder sind informelle Abstimmungen um die Meinung der im Plenum anwesenden einzuholen, während Abstimmungen über die Annahme oder Ablehnung von Anträgen auf Beschlüsse entscheiden. Eine ''Vorabstimmung'' ist nicht zulässig.
 # Beschlüsse sind nach außen zu tragende ''Resolutionen'', die zwingend an eine oder mehrere natürliche oder juristische Personen oder Personengruppen adressiert sein müssen, ''Positionspapiere'', die an niemanden adressiert sind, sowie ZaPF-interne ''Selbstverpflichtungen'' und Aufträge an den StAPF.
 # Stimmberechtigt für Meinungsbilder ist jede teilnehmende Person der ZaPF.
 # Stimmberechtigt für Abstimmungen ist jede im Plenum anwesende Fachschaft die mindestens eine teilnehmende Person hat. Jede Fachschaft hat eine Stimme; wie sie abstimmt, ist innerhalb der jeweiligen Fachschaft zu regeln. Den Fachschaften ist Zeit zur Beratung zu gewähren. Eine geheime Abstimmung ist möglich.
-# Ein Beschluss gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer ist als die Summe aus Enthaltungen und Nein-Stimmen. Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen überwiegen, wird die Abstimmung einmalig wiederholt. Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen überwiegt, gilt der Antrag als abgelehnt. Die Abstimmung ist geeignet, z.B. durch deutliches Handheben, kenntlich zu machen, eine geheime Abstimmung in Papierform kann beantragt werden. Eine schriftliche Stimmabgabe ist bei vorzeitiger Abreise möglich, es ist jedoch bei geheimer Abstimmung auf Wahrung des Wahlgeheimnisses zu achten. Die schriftliche Stimmabgabe gilt nur für inhaltlich unveränderte Anträge und verfällt sonst. Stimmrechtsübertragung ist nicht möglich. Anträge zur Abstimmung sind positiv zu formulieren.
+# Ein Antrag gilt als angenommen, wenn die Anzahl der Ja-Stimmen größer ist als die Summe aus Enthaltungen und Nein-Stimmen. Sollte die Zahl der Enthaltungen die Summe der Ja- und Nein-Stimmen überwiegen, wird die Abstimmung einmalig wiederholt. Falls in der erneuten Abstimmung wiederum die Zahl der Enthaltungen überwiegt, gilt der Antrag als abgelehnt. Die Abstimmung ist geeignet, z.B. durch deutliches Handheben, kenntlich zu machen, eine geheime Abstimmung in Papierform kann beantragt werden. Eine schriftliche Stimmabgabe ist bei vorzeitiger Abreise möglich, es ist jedoch bei geheimer Abstimmung auf Wahrung des Wahlgeheimnisses zu achten. Die schriftliche Stimmabgabe gilt nur für inhaltlich unveränderte Anträge und verfällt sonst. Stimmrechtsübertragung ist nicht möglich. Anträge zur Abstimmung sind positiv zu formulieren.
 # Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen. Sie können von jeder teilnehmenden Person gestellt werden. Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen. Die notwendigen Mehrheiten zur Annahme von Änderungsanträgen entsprechen der von Beschlüsse. Soweit das Plenum den Änderungsanträgen zustimmt oder sie von den hauptantragstellenden Personen übernommen werden, wird der Hauptantrag in der geänderten Fassung zur Beschlussfassung gestellt. Die antragstellende Person hat bis zur endgültigen Beschlussfassung das Recht, auch eine geänderte Fassung ihres Antrages zurückzuziehen.
 # ''Konkurriende Anträge'' sind einander widersprechende Anträge zur selben Sache. Sie werden gleichzeitig behandelt.
 # Bei konkurrierenden Anträgen ist die Beschlussfassung wie folgt durchzuführen: Geht ein Antrag weiter als ein anderer, so ist über den weitergehenden zuerst abzustimmen. Wird dieser angenommen, so sind weniger weit gehende Anträge erledigt. Lässt sich ein Weitergehen nicht feststellen, so bestimmt sich die Reihenfolge, in der die konkurrierenden Anträge zur Beschlussfassung gestellt werden, aus der Reihenfolge der Antragsstellung. Lässt sich diese nicht mehr feststellen, entscheidet die Sitzungsleitung.
@@ -115,6 +117,7 @@ Die Sitzungsleitung übt die Funktion des Wahlausschusses für offene Abstimmung
 # Der durch die Wahl bestimmten Gruppe muss anschließend das Vertrauen ausgesprochen werden. Dies geschieht falls nicht anders gewünscht per Handzeichen in offener Wahl. Sind die ersten sechs Personen genannter Gruppe vom gleichen Geschlecht, ersetzt die Person eines anderen Geschlechts mit den meisten Stimmen die sechste Person in der Rangfolge. Sollten sich nur Personen eines Geschlechts beworben haben, ist diese Regelung irrelevant.
 # Bei weniger als sieben sich bewerbenden Personen muss der kompletten Gruppe das Vertrauen mit Zweidrittelmehrheit der abgegebenen Stimmen ausgesprochen werden, damit sie als gewählt gilt. Die Wahl durch Zustimmung entfällt hierbei.
 # Darüber hinaus nominiert die austragende Fachschaft zwei Vertrauenspersonen aus ihrer Fachschaft, diese müssen nicht vom Plenum bestätigt werden.
+# Weiterhin sind die beiden gewählten Personen aus dem Awarenessgremium auch Vertrauenspersonen, diese müssen nicht vom Plenum bestätigt werden.
 
 = Anhang: Versionshistorie =
 
@@ -139,8 +142,9 @@ Diese Geschäftsordnung wurde auf dem Abschlussplenum der Sommer-ZaPF 2005 in Er
 * Winter-ZaPF 2019 in Freiburg,
 * Sommer-ZaPF 2023 in Berlin,
 * Winter-ZaPF 2023 in Düsseldorf,
-* der Winter-ZaPF 2024 in Mainz, und
-* der Sommer-ZaPF 2025 in Erlangen.
+* Winter-ZaPF 2024 in Mainz,
+* Sommer-ZaPF 2025 in Erlangen, und
+* der Winter-ZaPF 2025 in Frankfurt am Main.
 
 = Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung =
 
@@ -199,6 +203,11 @@ Meinungsbilder sind dazu gedacht anzuzeigen, in welche Richtung die Personen im 
 
 == Teilnamentliche und Geheime Abstimmungen ==
 
-Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Schema ab: - Bekanntmachung des Abstimmungsverhaltens der Fachschaften nach kurzer Bedenkzeit (namentlich oder nicht namentlich) - Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich abgegebene Stimmen zu verhindern - Bei Gegenrede wird der GO-Antrag ohne Abstimmung abgelehnt. Der Antrag / die Reso, über die abgestimmt werden soll, bleibt bestehen. - Nach Annahme (durch Ausbleiben von Gegenrede): Bei namentlicher Abstimmung wird die Stimme bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen Fachschaften per Handzeichen ab.
+Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Schema ab:
+
+* Bekanntmachung des Abstimmungsverhaltens der Fachschaften nach kurzer Bedenkzeit (namentlich oder nicht namentlich)
+* Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich abgegebene Stimmen zu verhindern
+* Bei Gegenrede wird der GO-Antrag ohne Abstimmung abgelehnt. Der Antrag / die Reso, über die abgestimmt werden soll, bleibt bestehen.
+* Nach Annahme (durch Ausbleiben von Gegenrede): Bei namentlicher Abstimmung wird die Stimme bei der Redeleitung abgegeben. Währenddessen stimmen die übrigen Fachschaften per Handzeichen ab.
 
 Die freiwillige Dokumentation von Abstimmungsverhalten soll dazu dienen, einen Antrag besonders zu unterstreichen, indem man ihm mit dem eigenen Namen mehr Nachdruck verleiht. So soll ein konkurrierendes Stellen von GO-Anträgen verschiedener Abstimmungsformen verhindert werden.
