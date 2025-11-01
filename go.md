@@ -421,10 +421,10 @@ Intention auf einer folgenden ZaPF einen weiteren Beschluss zu fassen.
 
 ## Konkurrierende Anträge {-}
 
-Konkurriende Anträge entfallen üblicherweise in eine von zwei Kategorien:
+Konkurrierende Anträge entfallen üblicherweise in eine von zwei Kategorien:
 
 1. Verschiedene Änderungsanträge, die die selbe Textstelle ändern wollen.
-2. Verschiede inhaltliche Beschlussfassungen zur selben Sache.
+2. Verschiedene inhaltliche Beschlussfassungen zur selben Sache.
 
 ## Meinungsbilder und Vorabstimmungen {-}
 
