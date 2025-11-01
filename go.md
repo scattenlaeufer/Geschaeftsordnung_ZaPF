@@ -329,8 +329,9 @@ Inhaltliche Änderungen wurden vorgenommen auf der:
 - Winter-ZaPF 2019 in Freiburg,
 - Sommer-ZaPF 2023 in Berlin,
 - Winter-ZaPF 2023 in Düsseldorf,
-- der Winter-ZaPF 2024 in Mainz, und
-- der Sommer-ZaPF 2025 in Erlangen.
+- Winter-ZaPF 2024 in Mainz,
+- Sommer-ZaPF 2025 in Erlangen, und
+- der Winter-ZaPF 2025 in Frankfurt am Main.
 
 # Anhang: Kommentare zur Geschäftsordnung und Begriffsklärung {-}
 
@@ -436,6 +437,7 @@ Meinungsbilder verschieden vom Abstimmungsgegenstand formuliert werden.
 ## Teilnamentliche und Geheime Abstimmungen {-}
 
 Die freiwillige Dokumentation von Abstimmungsverhalten läuft nach folgendem Schema ab:
+
 - Bekanntmachung des Abstimmungsverhaltens der Fachschaften nach kurzer Bedenkzeit
   (namentlich oder nicht namentlich)
 - Möglichkeit zur Gegenrede, um Rückschlüsse aus dem Gesamtergebnis auf nicht-namentlich
