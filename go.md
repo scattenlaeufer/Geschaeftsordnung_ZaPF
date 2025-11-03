@@ -59,11 +59,10 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht.
    Die Fristen für Anträge zur Änderung der Geschäftsordnung und des
    Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
-3. Abweichend davon kann ein Plenum für folgende Plena einer Tagung andere
-   Antragsfristen beschließen.
-   Die Antragsfristen aus Absatz 2 dürfen dabei nicht unterschritten werden.
-   Die Antragsfristen zur Änderung der Geschäftsordnung und des
-   Verhaltenskodex der ZaPF können nicht geändert werden.
+3. Plena können für spätere Plena einer ZaPF, z.B. das Anfangsplenum für alle
+   Zwischenplena und das Endplenum bzw. Zwischenplena für folgende Zwischenplena
+   und das Endplenum, andere Antragsfristen festsetzen.
+   Die Antragsfristen dürfen die in Absatz 2 geregelten Fristen nicht unterschreiten.
 4. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
    und müssen von mindestens zwei Personen aus verschiedenen Fachschaften
    getragen werden.
