@@ -60,7 +60,11 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Die Arbeitskreise haben dafür zu sorgen, dass dies rechtzeitig geschieht.
    Die Fristen für Anträge zur Änderung der Geschäftsordnung und des
    Verhaltenskodex der ZaPF werden in eigenen Absätzen geregelt.
-3. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
+3. Plena können für spätere Plena einer ZaPF, z.B. das Anfangsplenum für alle
+   Zwischenplena und das Endplenum bzw. Zwischenplena für folgende Zwischenplena
+   und das Endplenum, andere Antragsfristen festsetzen.
+   Die Antragsfristen dürfen die in Absatz 2 geregelten Fristen nicht unterschreiten.
+4. Anträge, die nach dieser Frist eingereicht werden, sind Initiativanträge
    und müssen von mindestens zwei Personen aus verschiedenen Fachschaften
    getragen werden.
    Auch diese Anträge müssen dem Plenum in geeigneter Form vorgelegt werden.
@@ -68,7 +72,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    "Anträge" angehängt, so sie nicht mit einem anderen Antrag konkurrieren.
    Sie früher zu behandeln bedarf eines Geschäftsordnungsantrages zur Änderung
    der Tagesordnung.
-4. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
+5. Anträge zur Änderung der Geschäftsordnung zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
@@ -76,7 +80,7 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Abschlussplenum bekanntgegeben werden.
    Änderungen dieser Geschäftsordnung sind nicht durch Initiativanträge möglich.
    Die Änderung der Geschäftsordnung tritt automatisch zum nächsten Plenum in Kraft.
-5. Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
+6. Anträge zur Änderung des Verhaltenskodex der ZaPF zur Abstimmung im Anfangsplenum
    müssen mindestens 7 Tage vor dem Anfangsplenum der ZaPF geeignet
    bekanntgemacht werden, z.B. über die Mailingliste.
    Zur Abstimmung im Zwischen- oder Abschlussplenum müssen Anträge zur Änderung
@@ -84,11 +88,11 @@ Mitglieder und helfende Personen der ausrichtenden Fachschaft.
    Abschlussplenum bekanntgegeben werden.
    Änderungen des Verhaltenskodex der ZaPF sind nicht durch Initiativanträge möglich.
    Die Änderung des Verhaltenskodex tritt sofort in Kraft.
-6. Die antragsstellende Person muss im Plenum anwesend sein
+7. Die antragsstellende Person muss im Plenum anwesend sein
    oder kann eine Vertretung benennen und muss dies
    der Sitzungsleitung mitteilen.
    Die vertretende ist dann die neue antragstellende Person.
-7. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
+8. Anträge, die bestehende Aussagen der ZaPF, insbesondere die Geschäftsordnung
    und die Satzung, ändern wollen, sollen ihre Änderung des bestehenden Textes
    *geeignet nachvollziehbar* machen.
    Diese Pflicht entfällt für Initiativanträge.
